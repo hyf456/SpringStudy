@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-study-analysis/spring-study-analysis.iml" filepath="$PROJECT_DIR$/spring-study-analysis/spring-study-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-delegate/spring-study-delegate.iml" filepath="$PROJECT_DIR$/spring-study-delegate/spring-study-delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-factory/spring-study-factory.iml" filepath="$PROJECT_DIR$/spring-study-factory/spring-study-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-prototype/spring-study-prototype.iml" filepath="$PROJECT_DIR$/spring-study-prototype/spring-study-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-proxy/spring-study-proxy.iml" filepath="$PROJECT_DIR$/spring-study-proxy/spring-study-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-singleton/spring-study-singleton.iml" filepath="$PROJECT_DIR$/spring-study-singleton/spring-study-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-strategy/spring-study-strategy.iml" filepath="$PROJECT_DIR$/spring-study-strategy/spring-study-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study-template/spring-study-template.iml" filepath="$PROJECT_DIR$/spring-study-template/spring-study-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springstudy.iml" filepath="$PROJECT_DIR$/springstudy.iml" />
+    </modules>
+  </component>
+</project>
